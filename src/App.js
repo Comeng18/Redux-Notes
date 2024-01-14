@@ -1,4 +1,3 @@
-import "./App.css";
 import IncreaseByTwoCounter from "./components/IncreaseByTwoCounter";
 import IncreaseCounter from "./components/IncreaseCounter";
 import Counter from "./components/Counter";
